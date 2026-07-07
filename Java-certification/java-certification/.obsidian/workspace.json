@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bbcdba9971b98817",
+        "id": "be0b5dcb239f3fff",
         "type": "tabs",
         "children": [
           {
-            "id": "b11fc60b2089c8eb",
+            "id": "9325cbb582278f26",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Trabajando con Java y sus tipos de datos/Declarar e iniciar variables.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Declarar e iniciar variables"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Trabajando con Java y sus tipos de datos/Trabajando con Java y sus tipos de datos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes"
+              "title": "Enlaces entrantes de Trabajando con Java y sus tipos de datos"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Trabajando con Java y sus tipos de datos/Trabajando con Java y sus tipos de datos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes"
+              "title": "Enlaces salientes de Trabajando con Java y sus tipos de datos"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Trabajando con Java y sus tipos de datos/Trabajando con Java y sus tipos de datos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema"
+              "title": "Esquema de Trabajando con Java y sus tipos de datos"
             }
           }
         ]
@@ -176,8 +183,18 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "b11fc60b2089c8eb",
+  "active": "9325cbb582278f26",
   "lastOpenFiles": [
+    "Trabajando con Java y sus tipos de datos/Trabajando con Java y sus tipos de datos.md",
+    "Trabajando con Java y sus tipos de datos/Declarar e iniciar variables.md",
+    "Main.md",
+    "Estructuras de control de flujo/Estructuras de control de flujo.md",
+    "Estructuras de control de flujo",
+    "Sin nombre",
+    "a.md",
+    "Trabajando con Java y sus tipos de datos",
+    "Identificadores para variables.md",
+    "Historial de Simulacros.md",
     "Bienvenido.md"
   ]
 }
