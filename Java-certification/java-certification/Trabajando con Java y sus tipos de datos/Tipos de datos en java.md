@@ -4,3 +4,4 @@ Primitivos: cualquier tipo de dato básico en java como, int, boolean,  etc
 Objeto: Todo tipo de objeto en java incluso strings ya que son objetos
 
 
+
