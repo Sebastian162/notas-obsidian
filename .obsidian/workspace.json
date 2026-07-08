@@ -11,12 +11,14 @@
             "id": "e10d5bcc7e0d4fd7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Java-certification/java-certification/IMG/Pasted image 20260706215219.png"
+                "file": "Java-certification/java-certification/Trabajando con Java y sus tipos de datos/Tipos de datos en java.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260706215219"
+              "icon": "lucide-file",
+              "title": "Tipos de datos en java"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "04a9a9d90bbb4219",
@@ -181,13 +184,14 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "9b5ca1a15f45a39b",
+  "active": "e10d5bcc7e0d4fd7",
   "lastOpenFiles": [
-    "Java-certification/java-certification/IMG/Pasted image 20260706210307.png",
-    "Java-certification/java-certification/Trabajando con Java y sus tipos de datos/Tipos de datos en java.md",
-    "Java-certification/java-certification/IMG/Pasted image 20260706215219.png",
-    "Java-certification/java-certification/Trabajando con Java y sus tipos de datos/Trabajando con Java y sus tipos de datos.md",
     "Java-certification/java-certification/Trabajando con Java y sus tipos de datos/Declarar e iniciar variables.md",
+    "Java-certification/java-certification/Trabajando con Java y sus tipos de datos/Tipos de datos en java.md",
+    "Java-certification/java-certification/Estructuras de control de flujo/Estructuras de control de flujo.md",
+    "Java-certification/java-certification/IMG/Pasted image 20260706215219.png",
+    "Java-certification/java-certification/IMG/Pasted image 20260706210307.png",
+    "Java-certification/java-certification/Trabajando con Java y sus tipos de datos/Trabajando con Java y sus tipos de datos.md",
     "Java-certification/java-certification/IMG/Pasted image 20260706210430.png",
     "Java-certification/java-certification/IMG/Pasted image 20260706210355.png",
     "Java-certification/java-certification/IMG/Ejemplo referencia objeto.png",
