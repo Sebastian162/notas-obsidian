@@ -11,14 +11,12 @@
             "id": "e10d5bcc7e0d4fd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Java-certification/java-certification/Trabajando con Java y sus tipos de datos/Tipos de datos en java.md",
-                "mode": "source",
-                "source": false
+                "file": "Java-certification/java-certification/IMG/Pasted image 20260706215219.png"
               },
-              "icon": "lucide-file",
-              "title": "Tipos de datos en java"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260706215219"
             }
           }
         ]
@@ -183,16 +181,16 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "e10d5bcc7e0d4fd7",
+  "active": "9b5ca1a15f45a39b",
   "lastOpenFiles": [
-    "Pasted image 20260706215219.png",
-    "Java-certification/java-certification/Trabajando con Java y sus tipos de datos/Trabajando con Java y sus tipos de datos.md",
+    "Java-certification/java-certification/IMG/Pasted image 20260706210307.png",
     "Java-certification/java-certification/Trabajando con Java y sus tipos de datos/Tipos de datos en java.md",
+    "Java-certification/java-certification/IMG/Pasted image 20260706215219.png",
+    "Java-certification/java-certification/Trabajando con Java y sus tipos de datos/Trabajando con Java y sus tipos de datos.md",
     "Java-certification/java-certification/Trabajando con Java y sus tipos de datos/Declarar e iniciar variables.md",
-    "Pasted image 20260706210430.png",
-    "Pasted image 20260706210355.png",
-    "Pasted image 20260706210307.png",
-    "IMG/Ejemplo referencia objeto.png",
-    "IMG"
+    "Java-certification/java-certification/IMG/Pasted image 20260706210430.png",
+    "Java-certification/java-certification/IMG/Pasted image 20260706210355.png",
+    "Java-certification/java-certification/IMG/Ejemplo referencia objeto.png",
+    "Java-certification/java-certification/IMG"
   ]
 }
