@@ -5,3 +5,5 @@ Objeto: Todo tipo de objeto en java incluso strings ya que son objetos
 
 
 
+# Literales
+Cualquier tipo de dato fijo 
