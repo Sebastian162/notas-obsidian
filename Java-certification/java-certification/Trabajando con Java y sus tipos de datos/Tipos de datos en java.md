@@ -25,14 +25,62 @@ Prácticamente es el valor de la variable
 ### Literales enteros
 Se pueden representar de la siguiente manera:
 + Decimal: **289**
-+ Octal: **0453**
-+ Hexadecimal: **0xAF7**
++ Octal: **0453**  (Empieza por cero)
++ Hexadecimal: **0xAF7**     (Se aceptan las letras A,B,C,D,E,F)
 + Binario: **0b100011**
 
 Se puede usar el símbolo _ para representar un literal numérico 
+_Restricciones_
+* No inicio
+* No final
+* Junto punto separador de decimales
 ```
 int n = 2_345;
 double d = 45.9_9;
 ```
 
+Todo literal con punto es considerado ==Double== solo si se requiere que este tenga un valor en especifico como float, este se tiene que interpretar en el código
+```
+4.7f
+```
 
+
+
+# Conversiones de tipos
+Existen dos tipos de conversión de tipos ==explícitas== e ==implícitas==
+
+Son ==Implícitas== cuando no se requiere hacer uso de algún casting, son directas
+```
+ int x = 7;
+ double z = x;
+```
+
+Son ==explícitas== cuando se requiere un casting para transformarlas
+```
+double r = 4.5f;
+int x = (int)r; //Casting forzoso
+```
+
+
+**Regla de conversión implícita**
+* El tipo de dato de destino debe ser mayor al de origen, existen algunas excepciones para esta regla
+* Tipo de origen es numérico (cualquier tipo) y el destino es char
+```
+byte b = 5;
+char n = b; //ERROR
+``` 
+* El tipo de destino es entero y origen decimal
+
+``` 
+double a = 5.5;
+long l = a; // ERROR
+``` 
+_Siempre existirá la opción de hacer la conversión explícita_
+
+
+
+
+# Tipos objeto 
+* Son todos los objetos de cualquier clase Java (Los strings son objetos)
+* No existe conversiones entre objetos y promitivos 
+* 
